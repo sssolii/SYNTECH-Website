@@ -15,7 +15,7 @@
 .custom-footer {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(0px, auto));
-    background: black;
+    background: #343434;
     position: relative;
     left: 0;
     right: 0;
