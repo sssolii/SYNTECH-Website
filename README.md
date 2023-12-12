@@ -37,4 +37,26 @@ npm run dev
 
 ```sh
 npm run build
+
 ```
+## Font 
+https://fonts.google.com/specimen/Inter
+
+## Background Color
+Blue :
+#0077B6 
+(0,119,182)
+
+Green:
+#58BC82 
+(88,188,130)
+
+White (creamy):
+#FFF8F8 
+(255,248,248)
+
+Opacity : 7% 
+
+## Font color
+#002661
+(0,38,97)
