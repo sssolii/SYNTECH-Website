@@ -41,7 +41,7 @@
         <div class="custom-footer-content">
           <h4>Contact Us</h4>
           <li><a href="#">Secretary</a></li>
-          <li><a href="#">Ram</a></li>
+          <li><a href="#">Room</a></li>
         </div>
         <div class="custom-footer-content">
           <h4>Social</h4>
