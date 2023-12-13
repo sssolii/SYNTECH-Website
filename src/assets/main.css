@@ -1,0 +1,10 @@
+@import './css/bulma.css'; 
+
+#app {
+  align-items: center;
+  background-color: #fff8f8;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./fonts/static/') format('truetype');
+}
