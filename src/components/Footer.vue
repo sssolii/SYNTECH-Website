@@ -45,7 +45,7 @@
         </div>
         <div class="custom-footer-content">
           <h4>Social</h4>
-          <li><a href="#">Instagram</a></li>
+          <li><a href="https://www.instagram.com/utpsyntech/">Instagram</a></li>
         </div>
       </div>
     </div>
