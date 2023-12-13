@@ -9,7 +9,7 @@
           </div>
         </div>
         <div class="custom-footer-content">
-          <h4>Associate with:</h4>
+          <h4>Associate with</h4>
           <img
             src="../assets/icons/CIS_logo-removebg-preview.png"
             height="110"
@@ -23,7 +23,7 @@
         </div>
 
         <div class="custom-footer-content">
-          <h4>Department :</h4>
+          <h4>Department</h4>
           <li><a href="#">Top</a></li>
           <li><a href="#">Level</a></li>
           <li><a href="#">Huge</a></li>
